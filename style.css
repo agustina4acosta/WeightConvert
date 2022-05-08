@@ -1,0 +1,16 @@
+body{
+    margin-top: 70px;
+    background: #333;
+    color: #fff;
+    
+
+}
+.card1{
+    background-color: blue;
+}
+.card2{
+    background-color: green;
+}
+.card3{
+    background-color: red;
+}
